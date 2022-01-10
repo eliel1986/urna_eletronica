@@ -6,7 +6,10 @@
   Simulação de Urna eletrônica feito com HTML, CSS e Javascript
 </h3>
 
-<blockquote align="center">“Mude você e todo o resto mudará naturalmente”!</blockquote>
+<blockquote align="center">“Ama-se mais o que se conquista com esforço.
+
+Benjamin Disraeli
+    ”!</blockquote>
 
 <p align="center">
   <a href="#features-adicionadas">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -28,4 +31,4 @@
 
 ---
 
-Feito com 💜 by Eliel Silva :wave:
+Feito by Eliel Silva :wave:
