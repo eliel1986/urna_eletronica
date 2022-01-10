@@ -31,4 +31,4 @@ Benjamin Disraeli
 
 ---
 
-Feito by Eliel Silva :wave:
+by Eliel Silva
